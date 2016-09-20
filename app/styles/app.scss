@@ -1,0 +1,18 @@
+/* 头部 */
+div{
+	background-color: blue;
+
+
+	h1{
+		color:#fff;
+		a{
+			background-color: #fff;
+			&:hover{
+				color:#000;
+			}
+		}
+	}
+	h2{
+		color:#fff;
+	}
+}

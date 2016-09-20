@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "description": "project",
+  "main": "index.js",
+  "authors": [
+    "kk"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "project"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "jquery": "1.12.0"
+  }
+}
